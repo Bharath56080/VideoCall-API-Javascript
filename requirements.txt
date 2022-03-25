@@ -99,7 +99,6 @@ PyJWT==2.3.0
 PyMySQL==1.0.2
 pyOpenSSL==20.0.1
 pyparsing==3.0.7
-pypiwin32==223
 python-docx==0.8.11
 python-dotenv==0.19.2
 python-jwt==3.3.2
